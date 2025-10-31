@@ -1,0 +1,5 @@
+selenium
+sqlalchemy psycopg2-binary
+pandas
+seaborn
+time
